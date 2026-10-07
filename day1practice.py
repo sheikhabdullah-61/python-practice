@@ -1,0 +1,6 @@
+naam = ("sheikh abdulla: ")
+umar = int(input("Tumhari umar: "))
+print(f"Hello {naam}! agle saal tum {umar + 1} saal ke ho jaoge.")
+a = int(input("pahla number: "))
+b = int(input("doosra number: "))
+print(f"Jod = {a + b}")
